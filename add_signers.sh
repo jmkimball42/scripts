@@ -3,7 +3,7 @@
 # Title: add_signers.sh
 # Author: John M. Kimball
 # Date: November 28, 2011
-# Purpose: Adds Enterprise IDs to WAS signers roles. 
+# Purpose: Adds Enterprise IDs to WebSphere Application Server (WAS) signers roles. 
 # Description: 
 #
 # Note: 
