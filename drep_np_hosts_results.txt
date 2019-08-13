@@ -1,0 +1,40 @@
+Number of occurrences of u060msw403
+0
+Number of occurrences of u060pepa41
+1
+Number of occurrences of u060spca201
+1
+Number of occurrences of u060spca41
+0
+Number of occurrences of u060srsa201
+0
+Number of occurrences of u060srsa401
+0
+Number of occurrences of u060srsa41
+1
+Number of occurrences of u060tmsa201
+1
+Number of occurrences of u060tmsa202
+1
+Number of occurrences of u060tmsa21
+1
+Number of occurrences of u060tmsa22
+1
+Number of occurrences of u060tmsa401
+1
+Number of occurrences of u060tmsa41
+1
+Number of occurrences of u060tpfa201
+1
+Number of occurrences of u060tpfa202
+1
+Number of occurrences of u060tpfa401
+0
+Number of occurrences of u060tpfa41
+0
+Number of occurrences of u060lycw201
+1
+Number of occurrences of u060lycw202
+1
+Number of occurrences of u060lycw401
+0

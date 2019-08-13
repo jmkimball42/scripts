@@ -1,0 +1,116 @@
+Number of occurrences of u060edia11a
+0
+Number of occurrences of u060edia12
+0
+Number of occurrences of u060ehh11
+0
+Number of occurrences of u060ehh12
+0
+Number of occurrences of u060ehha101
+0
+Number of occurrences of u060ehha102
+0
+Number of occurrences of u060epac101
+1
+Number of occurrences of u060epac102
+1
+Number of occurrences of u060epac103
+1
+Number of occurrences of u060epac104
+1
+Number of occurrences of u060epac107
+1
+Number of occurrences of u060epac108
+1
+Number of occurrences of u060epac109
+1
+Number of occurrences of u060epac110
+1
+Number of occurrences of u060epah101
+1
+Number of occurrences of u060epah102
+1
+Number of occurrences of u060epah103
+1
+Number of occurrences of u060epah104
+1
+Number of occurrences of u060epah107
+1
+Number of occurrences of u060epah108
+1
+Number of occurrences of u060epah109
+1
+Number of occurrences of u060epah110
+1
+Number of occurrences of u060fcma101
+1
+Number of occurrences of u060fcma102
+1
+Number of occurrences of u060fcma103
+1
+Number of occurrences of u060fcma104
+1
+Number of occurrences of u060fcma115
+0
+Number of occurrences of u060fcma116
+0
+Number of occurrences of u060fcma117
+0
+Number of occurrences of u060fcma118
+0
+Number of occurrences of u060fina101
+0
+Number of occurrences of u060fina102
+0
+Number of occurrences of u060fpma11
+0
+Number of occurrences of u060hrwa11
+1
+Number of occurrences of u060hrwa12
+1
+Number of occurrences of u060hrwa13
+1
+Number of occurrences of u060hrwa14
+1
+Number of occurrences of u060koma11
+0
+Number of occurrences of u060mana101
+0
+Number of occurrences of u060mana102
+0
+Number of occurrences of u060mscs101
+0
+Number of occurrences of u060mscs102
+0
+Number of occurrences of u060msw101
+0
+Number of occurrences of u060msw102
+0
+Number of occurrences of u060msw103
+0
+Number of occurrences of u060pepa11
+1
+Number of occurrences of u060spca101
+1
+Number of occurrences of u060spca102
+1
+Number of occurrences of u060srsa101
+0
+Number of occurrences of u060srsa102
+0
+Number of occurrences of u060tmsa101
+1
+Number of occurrences of u060tmsa102
+1
+Number of occurrences of u060tmsa11
+0
+Number of occurrences of u060tmsa12
+0
+Number of occurrences of u060tpfa101
+1
+Number of occurrences of u060tpfa102
+1
+Number of occurrences of u060lycw101
+0
+Number of occurrences of u060lycw102
+0
